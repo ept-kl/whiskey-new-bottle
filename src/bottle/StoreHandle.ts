@@ -9,7 +9,7 @@ import {
   WAMessageCursor,
   Contact,
   WASocket,
-} from "@adiwajshing/baileys";
+} from "baileys";
 import { Chat as DBChat } from "../entity/Chat";
 import { Contact as DBContact } from "../entity/Contact";
 import { Message as DBMessage } from "../entity/Message";

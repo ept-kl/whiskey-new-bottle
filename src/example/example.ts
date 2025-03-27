@@ -1,8 +1,8 @@
 import makeWASocket, {
   DisconnectReason,
   fetchLatestBaileysVersion,
-} from "@adiwajshing/baileys";
-import log from "@adiwajshing/baileys/lib/Utils/logger";
+} from "baileys";
+import log from "baileys/lib/Utils/logger";
 import BaileysBottle from "..";
 import { Boom } from "@hapi/boom";
 
