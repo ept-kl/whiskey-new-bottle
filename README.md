@@ -1,4 +1,4 @@
-# Baileys bottle
+# Whiskey new bottle
 
 ## A little package fork from deadlinecode for storing all the data from baileys in whatever database you want to use by using typeorm
 
@@ -49,6 +49,7 @@ Sure thing! You can tinker with the package like this:
    ```
 
    or alternatively run the example
+
    ```bash
    # inside the package folder
    npm run example
