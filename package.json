@@ -1,6 +1,6 @@
 {
   "name": "whiskey-new-bottle",
-  "version": "2.2.1",
+  "version": "2.2.2",
   "description": "A little package forked from deadlinecode for storing all the data from baileys in whatever database you want to use by using typeorm",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
