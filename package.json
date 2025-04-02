@@ -1,6 +1,6 @@
 {
   "name": "whiskey-new-bottle",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "A little package forked from deadlinecode for storing all the data from baileys in whatever database you want to use by using typeorm",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -38,5 +38,8 @@
   "bugs": {
     "url": "https://github.com/ept-kl/whiskey-new-bottle/issues"
   },
-  "homepage": "https://github.com/ept-kl/whiskey-new-bottle#readme"
+  "homepage": "https://github.com/ept-kl/whiskey-new-bottle#readme",
+  "directories": {
+    "lib": "lib"
+  }
 }
